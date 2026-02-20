@@ -1,0 +1,12 @@
+<img src="https://drive.google.com/file/d/1WOf-HH6S61mW62g2NTKR-LbOfj5Ryxh4/view?usp=drive_link" width="400" height="300">
+<h1 style="background-color:skyblue;">Student Examination Form</h1>
+<h3>First Name</h3>
+<input text></input text>
+<h3>Last Name</h3>
+<input text></input text>
+<h3>PRN Number</h3>
+<input text></input text>
+<radio></radio>
+
+</body>
+</html>
