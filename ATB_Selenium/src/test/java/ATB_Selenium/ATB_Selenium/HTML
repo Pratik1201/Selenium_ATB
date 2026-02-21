@@ -1,12 +1,20 @@
-<img src="https://drive.google.com/file/d/1WOf-HH6S61mW62g2NTKR-LbOfj5Ryxh4/view?usp=drive_link" width="400" height="300">
-<h1 style="background-color:skyblue;">Student Examination Form</h1>
-<h3>First Name</h3>
+<h1 style="background-color:grey">Student Registration Form</h1>
+<h4>First Name</h4>
 <input text></input text>
-<h3>Last Name</h3>
+<h4>Last Name</h4>
 <input text></input text>
-<h3>PRN Number</h3>
+<h4>PRN Number</h4>
 <input text></input text>
-<radio></radio>
-
-</body>
-</html>
+<h4>Registered Course</h4>
+<input text></input text>
+<h4>Subjects</h4>
+<input text></input text> <input text></input text>  <input text></input text>
+<input text></input text> <input text></input text>  <input text></input text>
+<h4>Exam Start Date</h4>
+<input text></input text>
+<h4>Exam End Date</h4>
+<input text></input text>
+<h4>Comment</h4>
+<input text></input text>
+<br>
+<button style="background-color:Green">Submit</button>
