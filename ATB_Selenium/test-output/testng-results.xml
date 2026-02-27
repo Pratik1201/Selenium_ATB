@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-26T12:38:28 IST" name="Suite" finished-at="2026-02-26T12:38:45 IST" duration-ms="17647">
+  <suite started-at="2026-02-27T23:04:51 IST" name="Suite" finished-at="2026-02-27T23:05:07 IST" duration-ms="15857">
     <groups>
     </groups>
-    <test started-at="2026-02-26T12:38:28 IST" name="curaTest" finished-at="2026-02-26T12:38:45 IST" duration-ms="17647">
-      <class name="tasks.task1">
-        <test-method signature="curaDemo()[pri:0, instance:tasks.task1@624ea235]" started-at="2026-02-26T12:38:28 IST" name="curaDemo" finished-at="2026-02-26T12:38:45 IST" duration-ms="17360" status="PASS">
+    <test started-at="2026-02-27T23:04:51 IST" name="TTA_Test" finished-at="2026-02-27T23:05:07 IST" duration-ms="15857">
+      <class name="tasks.task2_TTA_Bank">
+        <test-method signature="TTA()[pri:0, instance:tasks.task2_TTA_Bank@624ea235]" started-at="2026-02-27T23:04:51 IST" name="TTA" finished-at="2026-02-27T23:05:07 IST" duration-ms="15495" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- curaDemo -->
-      </class> <!-- tasks.task1 -->
-    </test> <!-- curaTest -->
+        </test-method> <!-- TTA -->
+      </class> <!-- tasks.task2_TTA_Bank -->
+    </test> <!-- TTA_Test -->
   </suite> <!-- Suite -->
 </testng-results>
