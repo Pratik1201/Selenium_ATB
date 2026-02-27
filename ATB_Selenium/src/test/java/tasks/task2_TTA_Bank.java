@@ -56,6 +56,8 @@ public class task2_TTA_Bank {
 		
 		System.out.println(driver.findElement(By.xpath("//div[@class='rounded-xl bg-gradient-to-br from-blue-600 to-blue-800 p-6 text-white shadow-lg']//div[@class='flex items-center justify-between']")).getText());
 		
+		driver.quit();
+		
 	}
 
 }
