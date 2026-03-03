@@ -28,6 +28,10 @@ public class task3_WebTable {
 	WebElement tEmployee = driver.findElement(By.xpath("//div[@role='rowgroup']/div[@class='oxd-table-card'][2]"));
 	System.out.print(tEmployee.getText());
 	
+	WebElement deleteBtn = driver.findElement(By.xpath("(//i[@class='oxd-icon bi-trash'])[2]"));
+	deleteBtn.click();
+	
+	driver.quit();
 	
 	
 	
