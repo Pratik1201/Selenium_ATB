@@ -1,6 +1,7 @@
 package tasks;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -24,6 +25,9 @@ public class task3_WebTable {
 	loginBtn.click();
 	
 	Thread.sleep(4000);
+	
+	JavascriptExecutor js = (JavascriptExecutor) driver;
+	js.executeScript("window.scrollBy(0,500)");
 	
 	WebElement tEmployee = driver.findElement(By.xpath("//div[@role='rowgroup']/div[@class='oxd-table-card'][2]"));
 	System.out.print(tEmployee.getText());

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-27T23:04:51 IST" name="Suite" finished-at="2026-02-27T23:05:07 IST" duration-ms="15857">
+  <suite started-at="2026-03-03T23:01:23 IST" name="Default suite" finished-at="2026-03-03T23:01:39 IST" duration-ms="15294">
     <groups>
     </groups>
-    <test started-at="2026-02-27T23:04:51 IST" name="TTA_Test" finished-at="2026-02-27T23:05:07 IST" duration-ms="15857">
-      <class name="tasks.task2_TTA_Bank">
-        <test-method signature="TTA()[pri:0, instance:tasks.task2_TTA_Bank@624ea235]" started-at="2026-02-27T23:04:51 IST" name="TTA" finished-at="2026-02-27T23:05:07 IST" duration-ms="15495" status="PASS">
+    <test started-at="2026-03-03T23:01:23 IST" name="Default test" finished-at="2026-03-03T23:01:39 IST" duration-ms="15294">
+      <class name="tasks.task3_WebTable">
+        <test-method signature="test_webTable()[pri:0, instance:tasks.task3_WebTable@624ea235]" started-at="2026-03-03T23:01:23 IST" name="test_webTable" finished-at="2026-03-03T23:01:38 IST" duration-ms="14822" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TTA -->
-      </class> <!-- tasks.task2_TTA_Bank -->
-    </test> <!-- TTA_Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- test_webTable -->
+      </class> <!-- tasks.task3_WebTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
