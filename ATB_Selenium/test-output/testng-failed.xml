@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tasks.task4_Waits">
+      <class name="ATB_Selenium.ATB_Selenium.SVG">
         <methods>
-          <include name="expWait"/>
+          <include name="test_Flipkart_SVG"/>
         </methods>
-      </class> <!-- tasks.task4_Waits -->
+      </class> <!-- ATB_Selenium.ATB_Selenium.SVG -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
