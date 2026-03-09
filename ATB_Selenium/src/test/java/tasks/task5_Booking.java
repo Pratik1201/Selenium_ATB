@@ -36,6 +36,8 @@ public class task5_Booking extends CommonToAll {
 
 		WebElement search = driver.findElement(By.xpath("//button[@data-ui-name='button_search_submit']"));
 		search.click();
+		
+		driver.quit();
 
 	}
 
